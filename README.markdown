@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kurochan/java-seed.g8.svg?branch=master)](https://travis-ci.org/kurochan/java-seed.g8)
+
 This is a [Giter8][g8] template for Java
 
 ```
